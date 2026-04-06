@@ -17,40 +17,40 @@ repositories:
     version: main
   rmf/rmf_building_map_msgs:
     type: git
-    url: https://github.com/open-rmf/rmf_building_map_msgs.git
-    version: main
+    url: https://github.com/chart-sg/rmf_building_map_msgs_main.git
+    version: feat/add_zone
   rmf/rmf_internal_msgs:
     type: git
     url: https://github.com/open-rmf/rmf_internal_msgs.git
     version: main
   rmf/rmf_ros2:
     type: git
-    url: https://github.com/open-rmf/rmf_ros2.git
-    version: main
+    url: https://github.com/chart-sg/rmf_ros2_main.git
+    version: feat/add_zone
   rmf/rmf_simulation:
     type: git
     url: https://github.com/open-rmf/rmf_simulation.git
     version: main
   rmf/rmf_task:
     type: git
-    url: https://github.com/open-rmf/rmf_task.git
+    url: https://github.com/chart-sg/rmf_task_main.git
     version: main
   rmf/rmf_traffic:
     type: git
-    url: https://github.com/open-rmf/rmf_traffic.git
-    version: main
+    url: https://github.com/chart-sg/rmf_traffic_main.git
+    version: feat/add_zone
   rmf/rmf_traffic_editor:
     type: git
-    url: https://github.com/open-rmf/rmf_traffic_editor.git
-    version: main
+    url: https://github.com/chart-sg/rmf_traffic_editor_main.git
+    version: feat/add_zone
   rmf/rmf_utils:
     type: git
     url: https://github.com/open-rmf/rmf_utils.git
     version: main
   rmf/rmf_visualization:
     type: git
-    url: https://github.com/open-rmf/rmf_visualization.git
-    version: main
+    url: https://github.com/chart-sg/rmf_visualization_main.git
+    version: feat/add_zone
   rmf/rmf_visualization_msgs:
     type: git
     url: https://github.com/open-rmf/rmf_visualization_msgs.git
