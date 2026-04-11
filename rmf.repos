@@ -1,8 +1,8 @@
 repositories:
   demonstrations/rmf_demos:
     type: git
-    url: https://github.com/open-rmf/rmf_demos.git
-    version: main
+    url: https://github.com/chart-sg/rmf_demos_main.git
+    version: testing/add_zone
   rmf/ament_cmake_catch2:
     type: git
     url: https://github.com/open-rmf/ament_cmake_catch2.git
@@ -21,8 +21,8 @@ repositories:
     version: feat/add_zone
   rmf/rmf_internal_msgs:
     type: git
-    url: https://github.com/open-rmf/rmf_internal_msgs.git
-    version: main
+    url: https://github.com/chart-sg/rmf_internal_msgs_main.git
+    version: feat/add_zone
   rmf/rmf_ros2:
     type: git
     url: https://github.com/chart-sg/rmf_ros2_main.git
@@ -34,7 +34,7 @@ repositories:
   rmf/rmf_task:
     type: git
     url: https://github.com/chart-sg/rmf_task_main.git
-    version: main
+    version: feat/add_zone
   rmf/rmf_traffic:
     type: git
     url: https://github.com/chart-sg/rmf_traffic_main.git
